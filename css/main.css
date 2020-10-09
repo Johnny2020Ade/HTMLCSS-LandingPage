@@ -38,3 +38,11 @@ section { display: flex; }
 .text-light { font-size: 30px; color: #A0A0A0; }
 .text-secondary { font-size: 30px; color: #faa541; }
 .text-primary { font-size: 16px; color: #364147; } 
+.header-nav { border-bottom: 1px; color:#a0a0a0;}
+.brand { size: 170x85px; margin:0 60px 0 --15px ;}
+.logo {max-width: 100%; height: auto;  }
+.search-box { size: 330x30 ; padding: 6px 12px; border: 1px solid #a0a0a0;}
+.search-button{ background-color: #a0a0a0; color: #ffffff; size: 100x30 ; border: 0;padding: 0;}
+.nav-list { padding: 0; width: 575px; margin-top: 10px;}
+.profile { margin-left: auto;}
+.account { text-align: right; padding:15px; color:#364147; size:18px;}
