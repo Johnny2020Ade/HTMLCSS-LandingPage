@@ -86,12 +86,11 @@ section { display: flex; }
     border-radius: 100px;
     max-width: 100%;
 } 
- .hero{ }
+ .hero { background-image: hero.jpg; 
+        height: 400px;
+        background-size: cover;
+        background-position: center;
+        transform: uppercase; }
  .hero h1 { }
  .hero h2 { }
- .hero p { }
- .banner { }
- .banner img { }
- .category-text h3 { }
- .category { }
 
